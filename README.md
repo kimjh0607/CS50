@@ -1,1 +1,1 @@
-# CS50
+# Lecture1 - C
